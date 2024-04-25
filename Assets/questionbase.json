@@ -1,0 +1,249 @@
+{
+  "questions": [
+    {
+      "Difficulty": 0,
+      "QuestionText": "Ile wynosi suma kątów w trójkącie?",
+      "AnswersList": ["A) 180 stopni", "B) 90 stopni", "C) 360 stopni", "D) 270 stopni"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Podstawowa własność geometrii płaskiej."
+    },
+    {
+      "Difficulty": 0,
+      "QuestionText": "Jakiego koloru jest banan?",
+      "AnswersList": ["A) Zielony", "B) Niebieski", "C) Żółty", "D) Czerwony"],
+      "CorrectAnswer": 2,
+      "FriendsAdvice": "Dojrzewając, zmienia kolor."
+    },
+    {
+      "Difficulty": 0,
+      "QuestionText": "Który miesiąc w roku ma 28 lub 29 dni?",
+      "AnswersList": ["A) Luty", "B) Marzec", "C) Kwiecień", "D) Maj"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Najkrótszy miesiąc w roku."
+    },
+    {
+      "Difficulty": 0,
+      "QuestionText": "Jak nazywa się najdłuższa rzeka w Polsce?",
+      "AnswersList": ["A) Wisła", "B) Warta", "C) Odra", "D) Bug"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Przepływa przez Warszawę."
+    },
+    {
+      "Difficulty": 0,
+      "QuestionText": "Ile nóg ma pająk?",
+      "AnswersList": ["A) 4", "B) 6", "C) 8", "D) 10"],
+      "CorrectAnswer": 2,
+      "FriendsAdvice": "Standardowa liczba dla przedstawicieli tej klasy zwierząt."
+    },
+    {
+      "Difficulty": 1,
+      "QuestionText": "Kto napisał 'Pan Tadeusz'?",
+      "AnswersList": ["A) Juliusz Słowacki", "B) Adam Mickiewicz", "C) Bolesław Prus", "D) Henryk Sienkiewicz"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Najwybitniejszy przedstawiciel romantyzmu w Polsce."
+    },
+    {
+      "Difficulty": 1,
+      "QuestionText": "W którym roku Polska przystąpiła do Unii Europejskiej?",
+      "AnswersList": ["A) 1999", "B) 2004", "C) 2007", "D) 2009"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Rozszerzenie UE, które włączyło 10 nowych państw."
+    },
+    {
+      "Difficulty": 1,
+      "QuestionText": "Jakiego koloru jest szmaragd?",
+      "AnswersList": ["A) Niebieski", "B) Zielony", "C) Czerwony", "D) Żółty"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Kamień szlachetny tego koloru jest bardzo ceniony."
+    },
+    {
+      "Difficulty": 1,
+      "QuestionText": "Co mierzy barometr?",
+      "AnswersList": ["A) Wilgotność powietrza", "B) Ciśnienie atmosferyczne", "C) Temperaturę", "D) Prędkość wiatru"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Nazwa pochodzi od greckiego słowa oznaczającego 'ciężar'."
+    },
+    {
+      "Difficulty": 1,
+      "QuestionText": "Która planeta jest znana jako 'Czerwona Planeta'?",
+      "AnswersList": ["A) Merkury", "B) Wenus", "C) Mars", "D) Jowisz"],
+      "CorrectAnswer": 2,
+      "FriendsAdvice": "Jej kolor wynika z obecności tlenku żelaza."
+    },
+    {
+      "Difficulty": 2,
+      "QuestionText": "Kto jest autorem teorii względności?",
+      "AnswersList": ["A) Isaac Newton", "B) Albert Einstein", "C) Nikola Tesla", "D) Stephen Hawking"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Niemiecko-amerykański fizyk teoretyczny, który opublikował teorię w 1905 roku."
+    },
+    {
+      "Difficulty": 2,
+      "QuestionText": "W którym wieku rozpoczęła się Rewolucja Francuska?",
+      "AnswersList": ["A) XVII", "B) XVIII", "C) XIX", "D) XX"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Wybuchła w 1789 roku."
+    },
+    {
+      "Difficulty": 2,
+      "QuestionText": "Jakie miasto jest stolicą Australii?",
+      "AnswersList": ["A) Sydney", "B) Melbourne", "C) Canberra", "D) Perth"],
+      "CorrectAnswer": 2,
+      "FriendsAdvice": "Nie jest to największe miasto w kraju."
+    },
+    {
+      "Difficulty": 2,
+      "QuestionText": "Ile elementów ma okresowa układ pierwiastków chemicznych?",
+      "AnswersList": ["A) 92", "B) 118", "C) 150", "D) 128"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Liczba ta wzrosła wraz z odkryciami naukowymi."
+    },
+    {
+      "Difficulty": 2,
+      "QuestionText": "Która z tych bitew nie była stoczona podczas II wojny światowej?",
+      "AnswersList": ["A) Bitwa o Midway", "B) Bitwa pod Wiedniem", "C) Bitwa o Stalingrad", "D) Bitwa o Anglię"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Miała miejsce w 1683 roku, długo przed II wojną światową."
+    },
+    {
+      "Difficulty": 3,
+      "QuestionText": "Kto był pierwszym prezydentem Stanów Zjednoczonych?",
+      "AnswersList": ["A) Thomas Jefferson", "B) George Washington", "C) Abraham Lincoln", "D) John Adams"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Sprawował urząd w latach 1789-1797."
+    },
+    {
+      "Difficulty": 3,
+      "QuestionText": "Jaki jest chemiczny symbol dla ołowiu?",
+      "AnswersList": ["A) Pb", "B) Pt", "C) Pd", "D) Po"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Pochodzi od łacińskiej nazwy plumbum."
+    },
+    {
+      "Difficulty": 3,
+      "QuestionText": "Jakie państwo historyczne było znane jako 'Złote Orda'?",
+      "AnswersList": ["A) Imperium Mongolskie", "B) Imperium Osmańskie", "C) Chanat Krymski", "D) Rosja Kijowska"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Mongolskie imperium rozciągające się od wschodniej Europy po Azję."
+    },
+    {
+      "Difficulty": 3,
+      "QuestionText": "W którym roku wynaleziono drukarkę 3D?",
+      "AnswersList": ["A) 1984", "B) 1974", "C) 1992", "D) 2001"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Technologia ta została opatentowana przez Chucka Hulla."
+    },
+    {
+      "Difficulty": 3,
+      "QuestionText": "Kto jest uznawany za 'ojca komputerów'?",
+      "AnswersList": ["A) Charles Babbage", "B) Alan Turing", "C) John von Neumann", "D) Bill Gates"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Projektował maszyny analityczne w XIX wieku."
+    },
+    {
+      "Difficulty": 4,
+      "QuestionText": "W jakim języku pierwotnie napisano 'Boską Komedię'?",
+      "AnswersList": ["A) Łacina", "B) Włoski", "C) Grecki", "D) Staroangielski"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Dante Alighieri użył języka volgare, aby jego dzieło było dostępne szerszemu gronu odbiorców."
+    },
+    {
+      "Difficulty": 4,
+      "QuestionText": "Co odkrył James Watson wraz z Francisem Crickiem?",
+      "AnswersList": ["A) Penicylinę", "B) Strukturę DNA", "C) Promieniotwórczość", "D) Przeciwciała"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Odkrycie to miało miejsce w 1953 roku."
+    },
+    {
+      "Difficulty": 4,
+      "QuestionText": "Jaka jest najtwardsza substancja występująca w naturze?",
+      "AnswersList": ["A) Diament", "B) Grafen", "C) Borazon", "D) Wurtzyt boronu nitrydu"],
+      "CorrectAnswer": "A) Diament",
+      "FriendsAdvice": "Skala Mohsa używa tej substancji jako punktu odniesienia."
+    },
+    {
+      "Difficulty": 4,
+      "QuestionText": "Ile trwał najdłuższy mecz tenisowy w historii?",
+      "AnswersList": ["A) 8 godzin i 11 minut", "B) 11 godzin i 5 minut", "C) 6 godzin i 36 minut", "D) 5 godzin i 53 minuty"],
+      "CorrectAnswer": "B) 11 godzin i 5 minut",
+      "FriendsAdvice": "Mecz odbył się podczas Wimbledonu."
+    },
+    {
+      "Difficulty": 4,
+      "QuestionText": "Który z tych elementów był pierwszym syntetycznie wyprodukowanym przez człowieka?",
+      "AnswersList": ["A) Technet", "B) Pluton", "C) Rad", "D) Uran"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Element ten został po raz pierwszy otrzymany w 1937 roku."
+    },
+    {
+      "Difficulty": 5,
+      "QuestionText": "Jaki jest składnik aktywny w jadzie węża koralowego?",
+      "AnswersList": ["A) Hemotoksyna", "B) Neurotoksyna", "C) Kardiotoksyna", "D) Cyjanek"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Substancja ta atakuje układ nerwowy."
+    },
+    {
+      "Difficulty": 5,
+      "QuestionText": "Kto jest autorem teorii 'homo ludens' dotyczącej roli zabawy w kulturze i społeczeństwie?",
+      "AnswersList": ["A) Johan Huizinga", "B) Jean Piaget", "C) Lev Vygotsky", "D) Sigmund Freud"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Holenderski historyk, który napisał książkę o tej samej nazwie."
+    },
+    {
+      "Difficulty": 5,
+      "QuestionText": "W którym roku odbyła się Konferencja w Wansee, na której zaplanowano 'ostateczne rozwiązanie kwestii żydowskiej'?",
+      "AnswersList": ["A) 1942", "B) 1938", "C) 1945", "D) 1933"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Spotkanie wysokiego szczebla nazistowskich urzędników."
+    },
+    {
+      "Difficulty": 5,
+      "QuestionText": "Jak nazywa się największy znany prehistoryczny ptak?",
+      "AnswersList": ["A) Argentavis", "B) Pteranodon", "C) Quetzalcoatlus", "D) Pelagornis"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Żył około 6 milionów lat temu w Argentynie."
+    },
+    {
+      "Difficulty": 5,
+      "QuestionText": "Ile symfonii skomponował Ludwig van Beethoven?",
+      "AnswersList": ["A) 5", "B) 9", "C) 12", "D) 7"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Jego dziewiąta i ostatnia symfonia zawiera słynny 'Hymn do radości'."
+    },
+    {
+      "Difficulty": 6,
+      "QuestionText": "Jaki jest najrzadszy izotop wodoru?",
+      "AnswersList": ["A) Prot", "B) Deuter", "C) Tryt", "D) Kwart"],
+      "CorrectAnswer": 2,
+      "FriendsAdvice": "Ten izotop jest radioaktywny i występuje w naturze tylko w śladowych ilościach."
+    },
+    {
+      "Difficulty": 6,
+      "QuestionText": "Kto opracował teorię 'czarnej dziury'?",
+      "AnswersList": ["A) Stephen Hawking", "B) Albert Einstein", "C) Karl Schwarzschild", "D) Roger Penrose"],
+      "CorrectAnswer": 2,
+      "FriendsAdvice": "Niemiecki fizyk, który jako pierwszy rozwiązał równania pola Einsteina dla czarnej dziury."
+    },
+    {
+      "Difficulty": 6,
+      "QuestionText": "Która z poniższych struktur nie jest częścią mózgu człowieka?",
+      "AnswersList": ["A) Hipokamp", "B) Płat czołowy", "C) Szyszynka", "D) Kręgosłup"],
+      "CorrectAnswer": 3,
+      "FriendsAdvice": "To część układu szkieletowego, a nie mózgu."
+    },
+    {
+      "Difficulty": 6,
+      "QuestionText": "Która cywilizacja jako pierwsza używała systemu pisma klinowego?",
+      "AnswersList": ["A) Egipska", "B) Sumer", "C) Majów", "D) Indus"],
+      "CorrectAnswer": 1,
+      "FriendsAdvice": "Starożytna cywilizacja mezopotamska, znana z rozwoju pisma klinowego około 3400 r. p.n.e."
+    },
+    {
+      "Difficulty": 6,
+      "QuestionText": "Który z tych języków jest uważany za język izolowany, nie mający udowodnionych pokrewieństw z innymi językami?",
+      "AnswersList": ["A) Baskijski", "B) Fiński", "C) Węgierski", "D) Albański"],
+      "CorrectAnswer": 0,
+      "FriendsAdvice": "Język ten jest używany w regionie Basków, w północnej Hiszpanii i południowo-zachodniej Francji."
+    }
+  ]
+}
